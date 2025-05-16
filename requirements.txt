@@ -1,0 +1,4 @@
+django==4.2
+google-generativeai
+python-dotenv
+djangorestframework
